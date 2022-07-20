@@ -1,2 +1,14 @@
 
 
+*.dbgconf
+*.Steven
+*.crf
+*.d
+*.o
+*.axf
+*.htm
+*.hex
+*.lnp
+*.dep
+*.map
+*.sct
